@@ -1,7 +1,7 @@
-/**
- * L'utente inserisce due numeri in successione, con due prompt.
-    Il software stampa il maggiore.
- */
+/*
+   L'utente inserisce due numeri in successione, con due prompt.
+   Il software stampa il maggiore.
+*/
 
 let userFirstNumber = parseInt(prompt('Scegli un numero'))
 document.getElementById("first-number").innerHTML = userFirstNumber;

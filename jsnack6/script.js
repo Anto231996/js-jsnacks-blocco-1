@@ -1,9 +1,7 @@
-/**
- *
-   Chiedi un numero di 7 cifre all'utente
-   e calcola la somma di tutte le cifre che compongono il numero. 
- *
- */
+/*
+  Chiedi un numero di 7 cifre all'utente
+  e calcola la somma di tutte le cifre che compongono il numero. 
+*/
 
 const numeroUtente = prompt("Inserisci un numero di 7 cifre");
 
